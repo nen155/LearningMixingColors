@@ -3,7 +3,8 @@
 Proyecto implementado en Ionic v2 para que los niños con dificultades aprendan a pintar y mezclar colores
 
 # Autores
-[Antonio Benítez Guijarro](https://github.com/mrsasuu)
+
+[Antonio Benítez Guijarro] (https://github.com/mrsasuu)
 [Emilio Chica Jiménez] (https://github.com/nen155)
 
 
