@@ -4,8 +4,8 @@ Proyecto implementado en Ionic v2 para que los niños con dificultades aprendan 
 
 # Autores
 
-[Antonio Benítez Guijarro] (https://github.com/mrsasuu)
-[Emilio Chica Jiménez] (https://github.com/nen155)
+[Antonio Benítez Guijarro](https://github.com/mrsasuu)
+[Emilio Chica Jiménez](https://github.com/nen155)
 
 
 # Referencias
